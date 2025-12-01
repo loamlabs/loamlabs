@@ -4,7 +4,7 @@
 
 Transitioning into offensive security with PJPT certification and PNPT in progress. Spent 2023-2025 designing and deploying e-commerce automation systems using AI-assisted development—defining requirements, testing extensively, and iterating to production. Combining technical security skills with 10+ years of B2B sales experience and proven ability to translate complex technical concepts into business impact.
 
-## 🔐 Security Focus
+## Security Focus
 
 - Penetration Testing (PJPT certified, pursuing PNPT)
 - Vulnerability Assessment & Exploitation
@@ -12,7 +12,7 @@ Transitioning into offensive security with PJPT certification and PNPT in progre
 - Network Security & Application Security
 - Security Automation
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Security & Testing:** Kali Linux, Metasploit, Nmap, Burp Suite, OSINT Tools
 
@@ -22,7 +22,7 @@ Transitioning into offensive security with PJPT certification and PNPT in progre
 
 **Tools & Platforms:** Git, Shopify Admin API, Email Automation (Resend), Task Scheduling
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Backend Automation Suite (2025)
 Designed, tested, and deployed 6 production microservices using AI-assisted development:
@@ -46,7 +46,7 @@ Designed and deployed using AI-assisted development:
 - Domain-restricted API access with referer validation
 - State compression for shareable calculation links
 
-## 📫 Connect
+## Connect
 
 - **Website:** [loamlabsusa.com](https://loamlabsusa.com)
 - **LinkedIn:** [linkedin.com/in/jerry-spallone](https://linkedin.com/in/jerry-spallone)
