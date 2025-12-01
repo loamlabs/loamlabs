@@ -1,8 +1,8 @@
 # Jerry Spallone
 
-**Cybersecurity Professional | Penetration Testing & Application Development**
+**Cybersecurity Professional | Penetration Testing | AI-Assisted Development**
 
-Transitioning from hands-on application development into offensive security with PJPT certification and PNPT in progress. Combining technical security skills with 10+ years of B2B sales experience and proven ability to translate complex technical concepts into business impact.
+Transitioning into offensive security with PJPT certification and PNPT in progress. Spent 2023-2025 designing and deploying e-commerce automation systems using AI-assisted development—defining requirements, testing extensively, and iterating to production. Combining technical security skills with 10+ years of B2B sales experience and proven ability to translate complex technical concepts into business impact.
 
 ## 🔐 Security Focus
 
@@ -10,13 +10,13 @@ Transitioning from hands-on application development into offensive security with
 - Vulnerability Assessment & Exploitation
 - OSINT & Reconnaissance
 - Network Security & Application Security
-- Security Automation & Tool Development
+- Security Automation
 
 ## 💻 Technical Skills
 
-**Security & Testing:** Kali Linux, Metasploit, Nmap, Burp Suite, Wireshark, OSINT Tools
+**Security & Testing:** Kali Linux, Metasploit, Nmap, Burp Suite, OSINT Tools
 
-**Development:** JavaScript, Node.js, Python, Bash, Liquid (Shopify)
+**Development:** JavaScript (reading/debugging), Python (scripting), Bash, Liquid (Shopify), AI-Assisted Development
 
 **Infrastructure:** Vercel Serverless Functions, Webhooks, API Integration, Redis, GraphQL/REST APIs
 
@@ -25,7 +25,7 @@ Transitioning from hands-on application development into offensive security with
 ## 🚀 Featured Projects
 
 ### Backend Automation Suite (2025)
-Built 6 production microservices automating critical business operations:
+Designed, tested, and deployed 6 production microservices using AI-assisted development:
 - Real-time inventory synchronization with distributor APIs
 - Webhook-driven customer notification system
 - Automated spoke length calculator using geometric algorithms
@@ -33,15 +33,17 @@ Built 6 production microservices automating critical business operations:
 - Competitive intelligence monitoring
 
 ### Custom E-Commerce Application (2025)
-- 10,000+ lines of JavaScript for interactive component selection system
-- Complex state management and product compatibility logic
-- Integrated authentication-gated discount system
-- Dynamic cart bundling with edit-in-place functionality
+Leveraged AI-assisted development to design, test, and deploy:
+- 3-stage component selection system with dynamic filtering across 1000+ SKUs
+- Complex product compatibility rules (axle standards, brake interfaces, spoke counts)
+- Authentication-gated discount system
+- Intelligent cart system with bundle logic and edit-in-place functionality
 
 ### Customer-Facing Engineering Calculator (2025)
+Designed and deployed using AI-assisted development:
 - High-performance spoke length calculator with sub-second load times
-- Interactive wheel geometry visualizer using HTML Canvas API
-- Domain-restricted JSON API with security controls
+- Interactive wheel geometry visualizer
+- Domain-restricted API access with referer validation
 - State compression for shareable calculation links
 
 ## 📫 Connect
